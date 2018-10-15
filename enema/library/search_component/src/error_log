@@ -1,0 +1,12 @@
+[07-Jul-2018 07:12:42 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/enemawwi/public_html/library/search_component/src/connection.php on line 2
+[07-Jul-2018 07:12:43 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/enemawwi/public_html/library/search_component/src/connection.php on line 2
+[07-Jul-2018 07:12:47 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/enemawwi/public_html/library/search_component/src/connection.php on line 2
+[07-Jul-2018 07:13:14 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/enemawwi/public_html/library/search_component/src/connection.php on line 2
+[07-Jul-2018 07:16:33 Etc/GMT] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/enemawwi/public_html/library/search_component/src/search-author.php on line 17
+[07-Jul-2018 07:16:42 Etc/GMT] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/enemawwi/public_html/library/search_component/src/search-book.php on line 17
+[07-Jul-2018 07:17:01 Etc/GMT] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/enemawwi/public_html/library/search_component/src/search-subject.php on line 15
+[07-Jul-2018 07:17:24 Etc/GMT] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/enemawwi/public_html/library/search_component/src/search-subject.php on line 15
+[07-Jul-2018 07:18:57 Etc/GMT] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/enemawwi/public_html/library/search_component/src/search-book.php on line 17
+[07-Jul-2018 07:19:12 Etc/GMT] PHP Notice:  Undefined index: subject in /home/enemawwi/public_html/library/search_component/src/search-book.php on line 5
+[07-Jul-2018 07:19:12 Etc/GMT] PHP Notice:  Undefined index: search in /home/enemawwi/public_html/library/search_component/src/search-book.php on line 6
+[07-Jul-2018 07:24:47 Etc/GMT] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/enemawwi/public_html/library/search_component/src/search-book.php on line 17

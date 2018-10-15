@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans');
+
+.container { margin-top: 20px; }
+.mb20 { margin-bottom: 20px;}
+
+hgroup { padding-left: 15px; border-bottom: 1px solid #ccc; }
+hgroup h1 { font: 500 normal 1.625em "Fira Sans",Arial,Verdana,sans-serif; color: white; margin-top: 0; line-height: 1.15; }
+hgroup h2.lead { font: normal normal 1.125em "Fira Sans",Arial,Verdana,sans-serif; color: white; margin: 0; padding-bottom: 10px; }
+
+.search-result .thumbnail { border-radius: 0 !important; }
+.search-result:first-child { margin-top: 0 !important; }
+.search-result { margin-top: 20px; }
+.search-result .col-md-2 { border-right: 1px dotted #ccc; min-height: 140px; }
+.search-result ul { padding-left: 0 !important; list-style: none;  }
+.search-result ul li { font: 400 normal .85em "Fira Sans",Arial,Verdana,sans-serif;  line-height: 30px; }
+.search-result ul li i { padding-right: 5px; }
+.search-result .col-md-7 { position: relative; }
+.search-result h3 { font: 500 normal 1.375em "Fira Sans",Arial,Verdana,sans-serif; margin-top: 0 !important; margin-bottom: 10px !important; }
+.search-result h3 > a, .search-result i { color: #248dc1 !important; }
+.search-result p { font: normal normal 1.125em "Fira Sans",Arial,Verdana,sans-serif; }
+.search-result span.plus { margin-top: 126px}
+.search-result span.plus a { background-color: #248dc1; padding: 8px; border-radius: 10px;
+    color: #fff;}
+.search-result span.plus a:hover { background-color: #414141; }
+.search-result span.border { display: block; width: 97%; margin: 0 15px; border-bottom: 1px dotted #ccc; }
+
+.search-box{
+    height: 60px;
+    width: 100% !important;
+}
+
+#dropdownMenu1{
+    height: 60px !important;
+    width: 270px !important;
+}
+
+.dropdown-menu{
+    width: 270px !important;
+    margin-left: 15px;
+}
+
+
+.search-button{
+    height:60px;
+    width:60px;
+    font-size: 25px;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+#feedback_button{
+    position: fixed !important;
+    bottom: 40px !important;
+    right: 20px !important;
+    width: 60px !important;
+    height: 60px !important;
+    border-radius: 50% !important;
+    font-size:30px !important;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    background: #2ecc71 !important;
+}
+
+.feedback-form{
+    height: 100px !important;
+    width: 275px !important;
+    position: fixed !important;
+    right: 20px !important;
+    z-index: 0 !important;
+    bottom: 110px !important;
+    background: #2ecc71;
+    border-radius: 20px;
+    padding: 10px 20px 20px 30px;
+    box-sizing: border-box;
+}
+
+.caret {
+    border-color: transparent !important;
+}
+
+.font-color{
+    color: #fff
+}

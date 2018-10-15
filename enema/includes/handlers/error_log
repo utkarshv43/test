@@ -1,0 +1,258 @@
+[04-Jul-2018 09:31:32 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 09:31:32 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 09:31:32 Etc/GMT] PHP Warning:  include(): Failed opening '../../config/ePortalConfig.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 09:31:32 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 09:31:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 09:31:32 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 9
+[04-Jul-2018 09:31:32 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 09:31:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 09:31:32 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 22
+[04-Jul-2018 09:31:32 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 09:31:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 09:31:32 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 34
+[04-Jul-2018 09:31:36 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 09:31:36 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 09:31:36 Etc/GMT] PHP Warning:  include(): Failed opening '../../config/ePortalConfig.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 09:31:36 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 09:31:36 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 09:31:36 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 9
+[04-Jul-2018 09:31:36 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 09:31:36 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 09:31:36 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 22
+[04-Jul-2018 09:31:36 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 09:31:36 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 09:31:36 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 34
+[04-Jul-2018 09:40:34 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 09:40:34 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 09:40:34 Etc/GMT] PHP Warning:  include(): Failed opening '../../config/ePortalConfig.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 09:40:34 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 09:40:34 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 09:40:34 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 9
+[04-Jul-2018 09:40:34 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 09:40:34 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 09:40:34 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 22
+[04-Jul-2018 09:40:34 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 09:40:34 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 09:40:34 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 34
+[04-Jul-2018 09:45:43 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 09:45:43 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 09:45:43 Etc/GMT] PHP Warning:  include(): Failed opening '../../config/ePortalConfig.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 09:45:43 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 09:45:43 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 09:45:43 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 9
+[04-Jul-2018 09:45:43 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 09:45:43 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 09:45:43 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 22
+[04-Jul-2018 09:45:43 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 09:45:43 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 09:45:43 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 34
+[04-Jul-2018 09:59:06 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 09:59:06 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 09:59:06 Etc/GMT] PHP Warning:  include(): Failed opening '../../config/ePortalConfig.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 09:59:06 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 09:59:06 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 09:59:06 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 9
+[04-Jul-2018 09:59:06 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 09:59:06 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 09:59:06 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 22
+[04-Jul-2018 09:59:06 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 09:59:06 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 09:59:06 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 34
+[04-Jul-2018 09:59:11 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 09:59:11 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 09:59:11 Etc/GMT] PHP Warning:  include(): Failed opening '../../config/ePortalConfig.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 09:59:11 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 09:59:11 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 09:59:11 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 9
+[04-Jul-2018 09:59:11 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 09:59:11 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 09:59:11 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 22
+[04-Jul-2018 09:59:11 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 09:59:11 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 09:59:11 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 34
+[04-Jul-2018 09:59:14 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 09:59:14 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 09:59:14 Etc/GMT] PHP Warning:  include(): Failed opening '../../config/ePortalConfig.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 09:59:14 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 09:59:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 09:59:14 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 9
+[04-Jul-2018 09:59:14 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 09:59:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 09:59:14 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 22
+[04-Jul-2018 09:59:14 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 09:59:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 09:59:14 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 34
+[04-Jul-2018 12:15:42 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 12:15:42 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 12:15:42 Etc/GMT] PHP Warning:  include(): Failed opening '../../config/ePortalConfig.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 12:15:42 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 12:15:42 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 12:15:42 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 9
+[04-Jul-2018 12:15:42 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 12:15:42 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 12:15:42 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 22
+[04-Jul-2018 12:15:42 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 12:15:42 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 12:15:42 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 34
+[04-Jul-2018 12:16:55 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 12:16:55 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 12:16:55 Etc/GMT] PHP Warning:  include(): Failed opening '../../config/ePortalConfig.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 12:16:55 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 12:16:55 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 12:16:55 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 9
+[04-Jul-2018 12:16:55 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 12:16:55 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 12:16:55 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 22
+[04-Jul-2018 12:16:55 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 12:16:55 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 12:16:55 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 34
+[04-Jul-2018 12:44:58 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 12:44:58 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 12:44:58 Etc/GMT] PHP Warning:  include(): Failed opening '../../config/ePortalConfig.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 12:44:58 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 12:44:58 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 12:44:58 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 9
+[04-Jul-2018 12:44:58 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 12:44:58 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 12:44:58 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 22
+[04-Jul-2018 12:44:58 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 12:44:58 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 12:44:58 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 34
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Warning:  include(): Failed opening '../../config/ePortalConfig.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 9
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 22
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 34
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Warning:  include(): Failed opening '../../config/ePortalConfig.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 9
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 22
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 13:44:21 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 34
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Warning:  include(): Failed opening '../../config/ePortalConfig.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 9
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 22
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 34
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Warning:  include(): Failed opening '../../config/ePortalConfig.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 9
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 22
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[04-Jul-2018 18:38:16 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 34
+[06-Jul-2018 05:04:50 Asia/Dili] PHP Notice:  Undefined index:  in /home/enemawwi/public_html/includes/handlers/ajax_submit_profile_post.php on line 10
+[06-Jul-2018 05:31:22 Asia/Dili] PHP Notice:  Undefined index:  in /home/enemawwi/public_html/includes/handlers/ajax_submit_profile_post.php on line 10
+[06-Jul-2018 05:32:44 Asia/Dili] PHP Notice:  Undefined index:  in /home/enemawwi/public_html/includes/handlers/ajax_submit_profile_post.php on line 10
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Warning:  include(): Failed opening '../../config/ePortalConfig.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 9
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 22
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 34
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Warning:  include(): Failed opening '../../config/ePortalConfig.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 9
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 22
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[05-Jul-2018 20:35:54 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 34
+[05-Jul-2018 20:37:40 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[05-Jul-2018 20:37:40 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[05-Jul-2018 20:37:40 Etc/GMT] PHP Warning:  include(): Failed opening '../../config/ePortalConfig.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[05-Jul-2018 20:37:40 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[05-Jul-2018 20:37:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[05-Jul-2018 20:37:40 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 9
+[05-Jul-2018 20:37:40 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[05-Jul-2018 20:37:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[05-Jul-2018 20:37:40 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 22
+[05-Jul-2018 20:37:40 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[05-Jul-2018 20:37:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[05-Jul-2018 20:37:40 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 34
+[06-Jul-2018 05:46:40 Asia/Dili] PHP Notice:  Undefined index:  in /home/enemawwi/public_html/includes/handlers/ajax_submit_profile_post.php on line 10
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Warning:  include(): Failed opening '../../config/ePortalConfig.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 9
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 22
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 34
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Warning:  include(): Failed opening '../../config/ePortalConfig.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 9
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 22
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[05-Jul-2018 20:49:40 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 34
+[05-Jul-2018 20:52:54 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[05-Jul-2018 20:52:54 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[05-Jul-2018 20:52:54 Etc/GMT] PHP Warning:  include(): Failed opening '../../config/ePortalConfig.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[05-Jul-2018 20:52:54 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[05-Jul-2018 20:52:54 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[05-Jul-2018 20:52:54 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 9
+[05-Jul-2018 20:52:54 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[05-Jul-2018 20:52:54 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[05-Jul-2018 20:52:54 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 22
+[05-Jul-2018 20:52:54 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[05-Jul-2018 20:52:54 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[05-Jul-2018 20:52:54 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 34
+[06-Jul-2018 15:52:34 Asia/Dili] PHP Notice:  Undefined index:  in /home/enemawwi/public_html/includes/handlers/ajax_submit_profile_post.php on line 10
+[06-Jul-2018 07:05:40 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[06-Jul-2018 07:05:40 Etc/GMT] PHP Warning:  include(../../config/ePortalConfig.php): failed to open stream: No such file or directory in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[06-Jul-2018 07:05:40 Etc/GMT] PHP Warning:  include(): Failed opening '../../config/ePortalConfig.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 2
+[06-Jul-2018 07:05:40 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[06-Jul-2018 07:05:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 6
+[06-Jul-2018 07:05:40 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 9
+[06-Jul-2018 07:05:40 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[06-Jul-2018 07:05:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 20
+[06-Jul-2018 07:05:40 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 22
+[06-Jul-2018 07:05:40 Etc/GMT] PHP Notice:  Undefined variable: switchCon in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[06-Jul-2018 07:05:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 32
+[06-Jul-2018 07:05:40 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enemawwi/public_html/includes/handlers/ePortalSwitch.php on line 34
+[06-Jul-2018 23:01:53 Asia/Dili] PHP Notice:  Undefined index:  in /home/enemawwi/public_html/includes/handlers/ajax_submit_profile_post.php on line 10
